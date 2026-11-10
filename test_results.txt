@@ -1,0 +1,14 @@
+test_all_grade_boundaries (test_grade_manager.GradeTests.test_all_grade_boundaries) ... ok
+test_average (test_grade_manager.GradeTests.test_average) ... ok
+test_count_validation (test_grade_manager.GradeTests.test_count_validation) ... ok
+test_empty_or_invalid_marks (test_grade_manager.GradeTests.test_empty_or_invalid_marks) ... ok
+test_full_session_and_retries (test_grade_manager.GradeTests.test_full_session_and_retries) ... ok
+test_grade_uses_unrounded_average (test_grade_manager.GradeTests.test_grade_uses_unrounded_average) ... ok
+test_invalid_average (test_grade_manager.GradeTests.test_invalid_average) ... ok
+test_invalid_marks (test_grade_manager.GradeTests.test_invalid_marks) ... ok
+test_valid_marks (test_grade_manager.GradeTests.test_valid_marks) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.002s
+
+OK
